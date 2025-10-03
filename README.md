@@ -1,6 +1,4 @@
 # TransVisDoneOnNPS-dataset
-This project is an extension to the repository"https://github.com/tusharsangam/TransVisDrone". 
+This project provides a code for QT-based GUI to run TransVisDrone model on an uploaded video"https://github.com/tusharsangam/TransVisDrone". 
+The GUI give the hand to the user to make lightening changes using gamma values .
 
-loss.py and metrics.py files include the implemetation of PIoU  WIoU  as well as Varifocal loss functions
-
-By running GUI.py, a QT GUI based is activated to show TransVisdrone performance on an uploaded video.
